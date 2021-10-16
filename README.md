@@ -1,2 +1,2 @@
 # Stone_paper_scissor
-First program with tkinter library of python
+A GUI based Stone Paper Sciccor game with the use of Tkinter library in Python!
